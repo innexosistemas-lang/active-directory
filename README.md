@@ -1,4 +1,4 @@
-# ad-lab
+# active-directory
 
 > **Active Directory** dos dois lados: administração do dia a dia (suporte) e ataques comuns com suas detecções (segurança).
 
